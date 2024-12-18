@@ -1,15 +1,14 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+# title: "Yifei Pang"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
-
-* Basic config options: _config.yml
+## Bio
+<!-- * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
@@ -20,9 +19,13 @@ redirect_from:
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Profile image (can set in _config.yml): images/profile.png -->
 
-## Tips and hints
+I am now a second-year master student in Carnegie Mellon University, majoring in Information Security. I am broadly interested in identifying vulnerabilities of machine learning (ML) models and designing practical solutions for them. Specifically, I am deeply interested in **exploring the security and privacy of ML models** and **advancing empirical methods for auditing privacy and security of ML applications**. I am also interested in machine learning for security. Before this, I completed my B.E. in Computer Science and Technology from Zhejiang University, working with [Prof. Kai](https://list.zju.edu.cn/kaibu/) Bu on network security (in detail, path validation).
+
+**Interested topics:** Differential Privacy, Membership Inference, AI Safety, etc
+
+<!-- ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
@@ -284,10 +287,10 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 ### Variable Tag
 
-This allows you to denote <var>variables</var>.
+This allows you to denote <var>variables</var>. -->
 
-***
+<!-- ***
 **Footnotes**
 
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
+The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>. -->
 
