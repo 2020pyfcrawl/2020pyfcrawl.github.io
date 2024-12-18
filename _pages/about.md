@@ -21,7 +21,7 @@ redirect_from:
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png -->
 
-I am now a second-year master student in Carnegie Mellon University, majoring in Information Security. I am broadly interested in identifying vulnerabilities of machine learning (ML) models and designing practical solutions for them. Specifically, I am deeply interested in **exploring the security and privacy of ML models** and **advancing empirical methods for auditing privacy and security of ML applications**. I am also interested in ML for security. Before this, I completed my B.E. in Computer Science and Technology from Zhejiang University, working with [Prof. Kai](https://list.zju.edu.cn/kaibu/) Bu on network security (in detail, path validation).
+I am now a second-year master student in Carnegie Mellon University, majoring in Information Security. I am broadly interested in identifying vulnerabilities of machine learning (ML) models and designing practical solutions for them. Specifically, I am deeply interested in **exploring the security and privacy of ML models** and **advancing empirical methods for auditing privacy and security of ML applications**. I am also interested in ML for security. Before this, I completed my B.E. in Computer Science and Technology from Zhejiang University, working with [Prof. Kai Bu](https://list.zju.edu.cn/kaibu/) on network security (in detail, path validation).
 
 **Interested topics:** Differential Privacy, Membership Inference, AI Safety, etc.
 
