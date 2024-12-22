@@ -40,7 +40,7 @@ Transactions on Dependable and Secure Computing (2023) [[paper](https://ieeexplo
 
 ## Others
 
-I am a Kop of Liverpool Football Club (L.F.C.). I am fascinated by Klopp's high-pressing tactics and shocked by the Anfield Lagendary with 4–0 comeback against Barcelona. I am now also in deep favor of Arne Slot, as he is truly realising the team's potential. My favorite football player is Cristiano Ronaldo (CR7), AND my favorite one in Liverpool is Trent Alexander-Arnold, number 66.
+I am a fan of Liverpool Football Club (L.F.C.). I am fascinated by Klopp's high-pressing tactics and shocked by the Anfield Lagendary with 4–0 comeback against Barcelona. I am now also in deep favor of Arne Slot, as he is truly releasing the team's potential. My favorite football player is Cristiano Ronaldo (CR7), AND my favorite one in Liverpool is Trent Alexander-Arnold, number 66.
 
 
 ## to be continued
