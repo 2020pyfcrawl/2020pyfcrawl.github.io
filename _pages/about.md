@@ -21,22 +21,27 @@ redirect_from:
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png -->
 
-I am now a second-year master student in Carnegie Mellon University, majoring in Information Security. I am broadly interested in identifying vulnerabilities of machine learning (ML) models and designing practical solutions for them. Specifically, I am deeply interested in **exploring the security and privacy of ML models** and **advancing empirical methods for auditing privacy and security of ML applications**. I am also interested in ML for security. Before this, I completed my B.E. in Computer Science and Technology from Zhejiang University, working with [Prof. Kai Bu](https://list.zju.edu.cn/kaibu/) on network security (in detail, path validation).
+I am now a second-year master student in Carnegie Mellon University, majoring in Information Security. I am broadly interested in identifying vulnerabilities of machine learning (ML) models and designing practical solutions for them. Specifically, I am deeply interested in **exploring the security and privacy of ML models** and **advancing empirical methods for auditing privacy and security of ML applications**. I am also interested in ML for security. Before this, I completed my B.E. in Computer Science and Technology from Zhejiang University, working with [Prof. Kai Bu](https://list.zju.edu.cn/kaibu/) on network security (in detail, [path validation](https://dl.acm.org/doi/abs/10.1145/2619239.2626323)).
 
-**Interested topics:** Differential Privacy, Membership Inference, AI Safety, etc.
+**Interested topics:** Differential Private ML, Membership Inference, AI Safety, Robust ML, etc. (I'd like to explore more!)
 
-**I am actively searching PhD positions from 2025 Fall!**
+**I am actively seeking PhD opportunities from 2025 Fall!**
 
 ## Publications
 * **Yifei Pang**, Sreenidhi Ganachari, Yuan Yuan, Steven Wu, Xiaojing Dong, Jin Xu, Zhenyu Yan. "A New Approach to Generate
 Individual Level Data of Walled Garden Platforms: Linear Programming Reconstruction" NeurIPS 2024 Workshop on Behavioral
-ML.
+ML. [[paper](https://openreview.net/pdf?id=VVYnNKUzdH), [code](https://github.com/2020pyfcrawl/Linear_Programming_Reconstruction), [poster](https://drive.google.com/file/d/1QByWC_tbuQU_70IyFfu-4WsRVuWiSF5j/view?usp=sharing)]
 * He, Anxiao, Kai Bu, Jiongrui Huang, **Yifei Pang**, Qianping Gu, and Kui Ren. "SwiftParade: Anti-burst Multipath Validation." IEEE
-Transactions on Dependable and Secure Computing (2023)
+Transactions on Dependable and Secure Computing (2023) [[paper](https://ieeexplore.ieee.org/document/10251632)]
 
 
 ## Teaching
 * Fall 2024: Teaching Assistant for 14740
+
+## Others
+
+I am a Kop of Liverpool Football Club (L.F.C.). I am fascinated by Klopp's high-pressing tactics and shocked by the Anfield Lagendary with 4–0 comeback against Barcelona. I am now also in deep favor of Arne Slot, as he is truly realising the team's potential. My favorite football player is Cristiano Ronaldo (CR7), AND my favorite one in Liverpool is Trent Alexander-Arnold, number 66.
+
 
 ## to be continued
 
