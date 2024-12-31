@@ -23,7 +23,7 @@ redirect_from:
 
 I am now a second-year master student in Carnegie Mellon University, majoring in Information Security. I am broadly interested in identifying vulnerabilities of machine learning (ML) models and designing practical solutions for them. Specifically, I am deeply interested in **exploring the security and privacy of ML models** and **advancing empirical methods for auditing privacy and security of ML applications**. I am also interested in ML for security. Before this, I completed my B.E. in Computer Science and Technology from Zhejiang University, working with [Prof. Kai Bu](https://list.zju.edu.cn/kaibu/) on network security (in detail, [path validation](https://dl.acm.org/doi/abs/10.1145/2619239.2626323)).
 
-**Interested topics:** Differential Private ML, Membership Inference, AI Safety, Robust ML, etc. (I'd like to explore more!)
+**Interested topics:** AI Safety, Robust ML, etc. (I'd like to explore more!)
 
 **I am actively seeking PhD opportunities from 2025 Fall!**
 
