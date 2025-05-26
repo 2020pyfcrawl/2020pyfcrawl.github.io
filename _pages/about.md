@@ -21,11 +21,11 @@ redirect_from:
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png -->
 
-I am now a second-year master student in Carnegie Mellon University, majoring in Information Security. I am broadly interested in identifying vulnerabilities of machine learning (ML) models and designing practical solutions for them. Specifically, I am deeply interested in **exploring the security and privacy of ML models** and **advancing empirical methods for auditing privacy and security of ML applications**. I am also interested in ML for security. Before this, I completed my B.E. in Computer Science and Technology from Zhejiang University, working with [Prof. Kai Bu](https://list.zju.edu.cn/kaibu/) on network security (in detail, [path validation](https://dl.acm.org/doi/abs/10.1145/2619239.2626323)).
+I am a research intern in Carnegie Mellon University, focusing on AI safety. I am broadly interested in identifying vulnerabilities of machine learning (ML) models and designing practical solutions for them. Specifically, I am deeply interested in **exploring the security and privacy of ML models** and **advancing empirical methods for auditing privacy and security of ML applications**. I am also interested in ML for security. Before this, I completed my M.S. in Information Security from Carnegie Mellon University, working with [Prof. Steven Wu](https://zstevenwu.com/). I have obtained B.E. degree in Computer Science and Technology from Zhejiang University, working with [Prof. Kai Bu](https://list.zju.edu.cn/kaibu/) on network security (in detail, [path validation](https://dl.acm.org/doi/abs/10.1145/2619239.2626323)).
 
-**Interested topics:** AI Safety, Robust ML, etc. (I'd like to explore more!)
+**Interested topics:** AI Safety, ML privacy, etc.
 
-**I am actively seeking PhD opportunities from 2025 Fall!**
+**I am actively seeking PhD opportunities from 2026!**
 
 ## Publications
 * **Yifei Pang**, Sreenidhi Ganachari, Yuan Yuan, Steven Wu, Xiaojing Dong, Jin Xu, Zhenyu Yan. "A New Approach to Generate
