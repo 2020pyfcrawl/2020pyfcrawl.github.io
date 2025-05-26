@@ -28,7 +28,7 @@ I am a research intern in Carnegie Mellon University working with [Prof. Steven 
 **I am actively seeking PhD opportunities from 2026!**
 
 ## Publications
-* Xiaoyu Wu, **Yifei Pang**, Terrance Liu, Steven Wu. "Winning the MIDST Challenge: New Membership Inference Attacks on Diffusion Models for Tabular Data Synthesis" Theory and Practice of Differential Privacy 2025. [[paper](https://arxiv.org/abs/2503.12008), [code](https://github.com/Nicholas0228/Tartan_Federer_MIDST/tree/main), [poster](https://drive.google.com/file/d/1GC939eebofjY-zJwtvFCTMK8oK1Ok-9p/view)]
+* Xiaoyu Wu, **Yifei Pang**, Terrance Liu, Steven Wu. "Winning the MIDST Challenge: New Membership Inference Attacks on Diffusion Models for Tabular Data Synthesis" Theory and Practice of Differential Privacy 2025. [[paper](https://arxiv.org/abs/2503.12008), [code](https://github.com/Nicholas0228/Tartan_Federer_MIDST/tree/main), [poster](https://drive.google.com/file/d/1zzY-Ce7DSTSllyS4wv0gx05wQ9gZ69df/view?usp=sharing)]
 * **Yifei Pang**, Sreenidhi Ganachari, Yuan Yuan, Steven Wu, Xiaojing Dong, Jin Xu, Zhenyu Yan. "A New Approach to Generate
 Individual Level Data of Walled Garden Platforms: Linear Programming Reconstruction" NeurIPS 2024 Workshop on Behavioral
 ML. [[paper](https://openreview.net/pdf?id=VVYnNKUzdH), [code](https://github.com/2020pyfcrawl/Linear_Programming_Reconstruction), [poster](https://drive.google.com/file/d/1QByWC_tbuQU_70IyFfu-4WsRVuWiSF5j/view?usp=sharing)]
