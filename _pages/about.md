@@ -21,26 +21,29 @@ redirect_from:
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png -->
 
-I am a research intern in Carnegie Mellon University, focusing on AI safety. I am broadly interested in identifying vulnerabilities of machine learning (ML) models and designing practical solutions for them. Specifically, I am deeply interested in **exploring the security and privacy of ML models** and **advancing empirical methods for auditing privacy and security of ML applications**. I am also interested in ML for security. Before this, I completed my M.S. in Information Security from Carnegie Mellon University, working with [Prof. Steven Wu](https://zstevenwu.com/). I have obtained B.E. degree in Computer Science and Technology from Zhejiang University, working with [Prof. Kai Bu](https://list.zju.edu.cn/kaibu/) on network security (in detail, [path validation](https://dl.acm.org/doi/abs/10.1145/2619239.2626323)).
+I am a research intern in Carnegie Mellon University working with [Prof. Steven Wu](https://zstevenwu.com/), focusing on AI safety. Specifically, I am deeply interested in **identifying the vulnerabilities in machine learning (ML) models** and **developing practical safety solutions for ML applications**. I am also interested in advancing research on large language models (LLMs) and vision-language models (VLMs). Prior to this, I completed my M.S. in Information Security at Carnegie Mellon University, where I worked with with Prof. Steven Wu. I have obtained B.E. degree in Computer Science and Technology from Zhejiang University under the supervision of [Prof. Kai Bu](https://list.zju.edu.cn/kaibu/) on network security (in detail, [path validation](https://dl.acm.org/doi/abs/10.1145/2619239.2626323)).
 
-**Interested topics:** AI Safety, ML privacy, etc.
+**Interested topics:** AI Safety, ML privacy, LLM, VLM, etc.
 
 **I am actively seeking PhD opportunities from 2026!**
 
 ## Publications
+* Xiaoyu Wu, **Yifei Pang**, Terrance Liu, Steven Wu. "Winning the MIDST Challenge: New Membership Inference Attacks on Diffusion Models for Tabular Data Synthesis" Theory and Practice of Differential Privacy 2025. [[paper](https://arxiv.org/abs/2503.12008), [code](https://github.com/Nicholas0228/Tartan_Federer_MIDST/tree/main), [poster](https://drive.google.com/file/d/1GC939eebofjY-zJwtvFCTMK8oK1Ok-9p/view)]
 * **Yifei Pang**, Sreenidhi Ganachari, Yuan Yuan, Steven Wu, Xiaojing Dong, Jin Xu, Zhenyu Yan. "A New Approach to Generate
 Individual Level Data of Walled Garden Platforms: Linear Programming Reconstruction" NeurIPS 2024 Workshop on Behavioral
 ML. [[paper](https://openreview.net/pdf?id=VVYnNKUzdH), [code](https://github.com/2020pyfcrawl/Linear_Programming_Reconstruction), [poster](https://drive.google.com/file/d/1QByWC_tbuQU_70IyFfu-4WsRVuWiSF5j/view?usp=sharing)]
-* He, Anxiao, Kai Bu, Jiongrui Huang, **Yifei Pang**, Qianping Gu, and Kui Ren. "SwiftParade: Anti-burst Multipath Validation." IEEE
-Transactions on Dependable and Secure Computing (2023) [[paper](https://ieeexplore.ieee.org/document/10251632)]
+* He, Anxiao, Kai Bu, Jiongrui Huang, **Yifei Pang**, Qianping Gu, and Kui Ren. "SwiftParade: Anti-burst Multipath Validation." IEEE Transactions on Dependable and Secure Computing (2023) [[paper](https://ieeexplore.ieee.org/document/10251632)]
+* **Yifei Pang**, Anxiao He, Wenjie Hou, Yunyi Teng, Kai Bu, Qianping Gu, and Kui Ren. "SwiftOracle: Orthogonality-driven Private Multipath Validation", submitted to IEEE Transactions on Dependable and Secure Computing in Mar. 2025.
 
+## Award
+* Information Networking Institute Outstanding Student Services Award - Research Assistant (2025)
 
 ## Teaching
 * Fall 2024: Teaching Assistant for 14740
 
 ## Others
 
-I am a fan of Liverpool Football Club (L.F.C.). I am fascinated by Klopp's high-pressing tactics and shocked by the Anfield Lagendary with 4–0 comeback against Barcelona. I am now also in deep favor of Arne Slot, as he is truly releasing the team's potential. My favorite football player is Cristiano Ronaldo (CR7), AND my favorite one in Liverpool is Trent Alexander-Arnold, number 66.
+I watch and play soccer, and am a fan of Liverpool Football Club (L.F.C.).
 
 
 ## to be continued
